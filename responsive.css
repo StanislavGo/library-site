@@ -1,0 +1,254 @@
+@media screen and (max-width: 1500px) {
+    .register-menu-header {
+        right: 90px;
+    }
+    .register-menu-header.after-reg {
+        right: 90px;
+    }
+    .myProfileBtn {
+        right: 40px;
+    }
+}
+@media screen and (max-width: 1490px) {
+    .register-menu-header {
+        right: 85px;
+    }
+    .register-menu-header.after-reg {
+        right: 85px;
+    }
+    .myProfileMenu {
+        right: 24px;
+    }
+}
+@media screen and (max-width: 1485px) {
+    .register-menu-header {
+        right: 82px;
+    }
+    .register-menu-header.after-reg {
+        right: 82px;
+    }
+    .myProfileMenu {
+        right: 22px;
+    }
+}
+@media screen and (max-width: 1475px) {
+    .register-menu-header {
+        right: 76px;
+    }
+    .register-menu-header.after-reg {
+        right: 76px;
+    }
+    .myProfileMenu {
+        right: 17px;
+    }
+    .myProfileBtn {
+        right: 35px;
+    }
+}
+@media screen and (max-width: 1460px) {
+    .register-menu-header {
+        right: 69px;
+    }
+    .register-menu-header.after-reg {
+        right: 69px;
+    }
+    .myProfileMenu {
+        right: 10px;
+    }
+    .myProfileBtn {
+        right: 30px;
+    }
+}
+@media screen and (max-width: 1450px) {
+    .register-menu-header {
+        right: 64px;
+    }
+    .register-menu-header.after-reg {
+        right: 64px;
+    }
+    .myProfileMenu {
+        right: 5px;
+    }
+    .myProfileBtn {
+        right: 24px;
+    }
+}
+@media screen and (max-width: 1445px){
+    .register-menu-header {
+        right: 62px;
+    }
+    .register-menu-header.after-reg {
+        right: 62px;
+    }    .myProfileMenu {
+        right: 2px;
+    }
+    .myProfileBtn {
+        right: 22px;
+    }
+}
+@media screen and (max-width: 1440px){
+    .register-menu-header {
+        right: 61px;
+    }
+    .register-menu-header.after-reg {
+        right: 61px;
+    }
+    .myProfileMenu {
+        right: 0;
+    }
+    .myProfileBtn {
+        right: 20px;
+    }
+}
+
+
+@media screen and (max-width: 1430px) {
+    .about-slides-mobile {
+        display: flex;
+        width: 600px;
+        margin: 0 auto;
+    }
+    .slider {
+        display: none;
+    }
+    .pagination-block {
+        display: none;
+    }
+    .pagination-block-mobile {
+        display: flex;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
+}
+
+
+@media screen and (max-width: 1238px) {
+    .our-contacts {
+        height: 1040px;
+        background: white;
+    }
+    .contacts-info .right-side {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 1135px) {
+    .main-block .first-block-card {
+        margin: 40px auto;
+    }
+    .main-block .second-block-card {
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1055px) {
+    .main-block .second-block-card p {
+        width: 490px;
+    }
+    .buttons-block {
+        float: unset;
+        margin: 35px auto;
+    }
+}
+
+@media screen and (max-width: 1216px) {
+    .contacts-info .right-side {
+        margin-top: 100px !important;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 1170px) {
+    .favorites-items .blocks .block {
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .pick-favorites {
+        margin-top: 40px;
+    }
+    .our-contacts .contacts-info {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 1056px) {
+    .myProfileBtn {
+        right: 0;
+        position: relative;
+        margin: 0 auto;
+    }
+    .main-block .first-block-card {
+        margin: 40px auto;
+        margin-bottom: 0;
+    }
+    .library-cards .main-block {
+        height: 900px;
+    }
+}
+
+@media screen and (max-width: 908px) {
+    
+    .coffee-shop-section {
+        height: 1400px;
+    }
+    .coffee-shop-section .menu {
+        flex-wrap: wrap;
+    }
+    .menu .right-side-menu {
+        margin-top: 40px;
+        position: absolute;
+        bottom: -4630px;
+        right: 10px;
+    }
+    .menu .left-side-menu {
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__container nav ul {
+        display: none;
+    }
+    .burger-menu {
+        display: block;
+    }
+    .header__container .burger-header {
+        display: block;
+    }
+    .welcome-section {
+        background-image: url(img/bg-mobile.png);
+    }
+    .about-slides {
+        display: none;
+    }
+    .pagination-block {
+        display: none;
+    }
+    .pagination-block-mobile {
+        display: flex;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
+    .favorites-section {
+        padding-top: 25px;
+    }
+    .menu .right-side-menu {
+        bottom: -4950px;
+    }
+    .coffee-shop-section {
+        height: 1440px;
+    }
+    .seasons-block {
+        width: 95%;
+    }
+    .contacts-info .right-side {
+        width: 100%;
+    }
+    .register-menu-header {
+        right: 105px;
+    }
+    .register-menu-header.after-reg {
+        right: 105px;
+    }
+}
