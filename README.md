@@ -1,5 +1,5 @@
 # Library-Site
-## https://stanislavgo.github.io/Library-Site/
+## https://stanislavgo.github.io/library-site/
 ![Library Site](./img/photo-of-project.png)
 
 ## Technologies used:
